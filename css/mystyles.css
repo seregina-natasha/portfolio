@@ -16,11 +16,11 @@
 .jumbotron {
   margin: 0px auto;
   padding: 70px 30px;
-  background: #5F9EA0;
+  background: #1E796A;
   color: floralwhite;
 }
 .carousel {
-  background: #1a237e;
+  background: #1E796A;
 }
 .carousel .item {
   height: 500px;
@@ -32,41 +32,14 @@
   top: 0;
 }
 .navbar-inverse {
-  background: #303f9f;
+  background: #006957;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a {
-  background: #1a237e;
+  background: #00A287;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a:hover {
-  background: #1a237e;
+  background: #34D0B6;
   color: #ffffff;
-}
-.navbar-inverse .navbar-nav > .active > a:focus {
-  background: #1a237e;
-  color: #ffffff;
-}
-.navbar-inverse .navbar-nav > .open > a {
-  background: #1a237e;
-  color: #ffffff;
-}
-.navbar-inverse .navbar-nav > .open > a:hover {
-  background: #1a237e;
-  color: #ffffff;
-}
-.navbar-inverse .navbar-nav > .open > a:focus {
-  background: #1a237e;
-  color: #ffffff;
-}
-.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-  background-color: #303f9f;
-  color: #eeeeee;
-}
-.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
-  color: #000000;
-}
-.navbar-inverse .navbar-nav .open .dropdown-menu {
-  background-color: #303f9f;
-  color: #eeeeee;
 }
