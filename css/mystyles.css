@@ -11,7 +11,7 @@
 .row-footer {
   margin: 0px auto;
   padding: 20px 0px;
-  background-color: #AfAfAf;
+  background-color: #34D0B6;
 }
 .jumbotron {
   margin: 0px auto;
@@ -42,4 +42,8 @@
 .navbar-inverse .navbar-nav > .active > a:hover {
   background: #34D0B6;
   color: #ffffff;
+}
+a
+{
+  color:black;
 }
